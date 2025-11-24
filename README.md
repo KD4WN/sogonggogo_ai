@@ -27,7 +27,6 @@ sogonggogo_ai/
 │   └── test_voice_chat.py           # 음성 채팅 테스트
 │
 ├── .env                              # 환경 변수 (GROQ_API_KEY)
-├── API_SPEC.md                       # API 명세서
 └── requirements.txt                  # 의존성
 ```
 
